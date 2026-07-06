@@ -5,3 +5,4 @@ pywin32
 pygame
 pandas
 openpyxl
+pip install ultralytics opencv-python pywin32
