@@ -1,0 +1,7 @@
+
+ultralytics
+opencv-python
+pywin32
+pygame
+pandas
+openpyxl
